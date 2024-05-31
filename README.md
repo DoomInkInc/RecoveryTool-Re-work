@@ -1,11 +1,7 @@
 # RecoveryTool
-This tool is the one of tools which help to delete viruses.
-(kinda) Small, easy to use, but winpe recommended.
-Powered by CMD, VBS, PowerShell.
+Yo, i'm ink and i present to you... Recovery Tool!
 
-In update V3.0 i'll try to make Sys32 copy feature, and i'll make another rar archive with System32 of Win10
+This tool will help you to delete viruses!
 
-Thanks for using it.
-
-
-Made by Ink Sans, powered by Windows instruments, all tools will be credited soon.
+Its very easy to use, and it powered by: Bat, Python, VBS!
+Demolish viruses right now, with Recovery Tool V2 Beta 1!
